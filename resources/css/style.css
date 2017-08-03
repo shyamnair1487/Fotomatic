@@ -101,7 +101,7 @@ header .mobile {
   }
 
   header .mobile li {
-    padding: 0;
+    padding-top: 20px;
   }
 
   header .mobile .button {
